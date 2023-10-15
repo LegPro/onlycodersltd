@@ -12,6 +12,18 @@
     position: relative;
     clip-path: polygon(50% 0, 100% 25%, 100% 75%, 50% 100%, 0 75%, 0 25%);
   }
+
+  .poly {
+    clip-path: polygon(50% 0, 100% 25%, 100% 75%, 50% 100%, 0 75%, 0 25%);
+    background-color: #1e0443;
+    color: #FFFFFF;
+    position: absolute;
+    height: 14pt;
+    width: 14pt;
+    z-index: 1;
+    margin-top: 40%;
+    margin-left: 40%;
+  }
   .mask{
     border-radius: 50%;
     width: 50px;
@@ -83,7 +95,7 @@ background-color: #FFFFFF;
 }
 
 .blue {
-    background-color:#33ccff
+    background-color:#1b90e3
 }
 
 .fw-bold{

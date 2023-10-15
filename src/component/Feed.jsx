@@ -21,25 +21,6 @@ function Feed() {
           </div>
         </Column>
       </Row>
-
-
-
-
-      {/* <div className="p-2 w-100 bd-highlight ">
-        <div className="form-check-inline text-left ">All Updates</div>
-      </div>
-      <div className="p-2 ms-5 w-100 bd-highlight ">
-        <div className="form-check-inline ">
-          <div className="form-group ">
-            <div class="show">show</div>
-            <select className="form-control form-select white" id="demo">
-              <option defaultValue>Everything</option>
-              <option>Recent</option>
-              <option>Past</option>
-            </select>
-          </div>
-        </div>
-      </div> */}
     </div>
   );
 }

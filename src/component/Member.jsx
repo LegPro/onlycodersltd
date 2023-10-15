@@ -18,7 +18,12 @@ function Member() {
                                                 <div class="mask">
                                                 </div>
                                                 <img className="img-logo" src="/assets/images/avatar/1.png" />
+                                                <div class=" poly small  d-flex align-items-center justify-content-center">
+                                                    <span>1</span>
+                                                </div>
                                             </div>
+                                            
+                                            
                                         </div>
                                     </div>
 
@@ -45,6 +50,9 @@ function Member() {
                                                 <div class="mask mask100">
                                                 </div>
                                                 <img className="img-logo" src="/assets/images/avatar/4.png" />
+                                                <div class=" poly small  d-flex align-items-center justify-content-center">
+                                                    <span>4</span>
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
@@ -69,6 +77,9 @@ function Member() {
                                                 <div class="mask">
                                                 </div>
                                                 <img className="img-logo" src="/assets/images/avatar/3.png" />
+                                                <div class=" poly small  d-flex align-items-center justify-content-center">
+                                                    <span>1</span>
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
@@ -92,6 +103,9 @@ function Member() {
                                                 <div class="mask">
                                                 </div>
                                                 <img className="img-logo" src="/assets/images/avatar/5.png" />
+                                                <div class=" poly small  d-flex align-items-center justify-content-center">
+                                                    <span>1</span>
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
@@ -111,10 +125,14 @@ function Member() {
                                 <div className="list-group-item d-flex justify-content-between align-items-start">
                                     <div class="html">
                                         <div class="bar">
+                                        
                                             <div class="circle">
                                                 <div class="mask mask2">
                                                 </div>
                                                 <img className="img-logo" src="/assets/images/avatar/2.png" />
+                                                <div class=" poly small  d-flex align-items-center justify-content-center">
+                                                    <span>2</span>
+                                                </div>
                                             </div>
                                         </div>
                                     </div>

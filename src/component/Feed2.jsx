@@ -13,6 +13,9 @@ function FeedList() {
                                         <div class="mask mask100">
                                         </div>
                                         <img className="img-logo" src="/assets/images/feed/f1.png" />
+                                        <div class=" poly small  d-flex align-items-center justify-content-center">
+                                          <span>4</span>
+                                        </div>
                                     </div>
                                 </div>
                               </div>
