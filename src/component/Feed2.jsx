@@ -7,10 +7,14 @@ function FeedList() {
                    <Row className="col-12 mt-3">
                        <Column className="col-12 ">
                            <div className="list-group-item d-flex justify-content-between align-items-start">
-                              <div >
-                              <span className="badge bg-primary rounded-pill">
-                                  <img className="img-logo" src="/assets/images/feed/f1.png" />
-                              </span>
+                              <div class="html">
+                                <div class="bar">
+                                    <div class="circle"> 
+                                        <div class="mask mask100">
+                                        </div>
+                                        <img className="img-logo" src="/assets/images/feed/f1.png" />
+                                    </div>
+                                </div>
                               </div>
                              <div className="ms-2 me-auto">
                                <div className="fw-bold">

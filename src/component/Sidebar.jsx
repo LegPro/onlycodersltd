@@ -1,8 +1,10 @@
 import React from 'react';
 import "bootstrap/dist/css/bootstrap.min.css";
 import "bootstrap-icons/font/bootstrap-icons.css";
-
+import "@assets/css/component/Sidebar.css"
 function Sidebar() {
+const links = document.querySelectorAll(".nav-link");
+
   return (
    <div className="container-fluid ">
        <div className="row ">
@@ -10,10 +12,10 @@ function Sidebar() {
                <div className="d-flex flex-sm-column flex-row flex-nowrap bg-light align-items-center sticky-left">
                    <ul className="nav nav-pills nav-flush flex-sm-column flex-row flex-nowrap mb-auto mx-auto text-center align-items-center">
                        <li className="nav-item">
-                           <a href="#" className="nav-link py-3 px-2" title="" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-original-title="break">
-                                 <i className="bi bi-file-break"></i>
-                           </a>
-                       </li>
+                                       <a href="#" className="nav-link py-3 px-2 active" title="" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-original-title="break" >
+                                         <i className="bi bi-file-break"></i>
+                                       </a>
+                                     </li>
                        <li className="nav-item">
                            <a href="#" className="nav-link py-3 px-2" title="" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-original-title="person">
                                <i className="bi bi-person"></i>

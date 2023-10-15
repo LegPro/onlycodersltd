@@ -33,18 +33,18 @@ function App() {
                     </Column>
                 </Row>
                 <Row className="col-12 ">
-                    <Column className="col-1 mt-4">
+                    <Column className="col-1 mt-4 ">
                     </Column>
-                    <Column className="col-3 mt-3 p-2 ">
-                        <Row className="col-12 white card p-3">
+                    <Column className="d-none d-md-block d-lg-block col-md-2 col-lg-2 mt-3 p-2 ">
+                        <Row className="white card p-3">
                             <Member />
                         </Row>
                         <Row className="mt-4 white card p-3">
                             <Quest />
                         </Row>
                     </Column>
-                    <Column className="col-sm-4 mt-3 p-2 ">
-                        <Row className="col-sm-12 ">
+                    <Column className="col-sm-10 col-md-6 col-lg-6 mt-3 p-2 ">
+                        <Row >
                             <Feed />
                         </Row>
                         <Row >
@@ -54,8 +54,8 @@ function App() {
                             <Feed2 />
                         </Row>
                     </Column>
-                    <Column className="col-3 mt-3 p-2 ">
-                        <Row className="col-12 white card p-3">
+                    <Column className="d-none d-md-block d-lg-block col-md-2 col-lg-2 mt-3 p-2 ">
+                        <Row className="white card p-3">
                             <Group />
                         </Row>
                         <Row className="mt-4 white card p-3">

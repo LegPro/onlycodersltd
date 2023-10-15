@@ -12,9 +12,11 @@ function Badge() {
                         <Row className="col-12 mt-3">
                             <Column className="col-12 ">
                                 <div className="list-group-item d-flex justify-content-between align-items-start">
-                                   <span className="badge bg-primary rounded-pill">
-                                       <img className="img-logo" src="/assets/images/badge/b1.png" />
-                                   </span>
+                                    <div class="html">
+                                        <div class="grp">
+                                            <img className="img-logo" src="/assets/images/badge/b1.png" />
+                                        </div>
+                                    </div>
                                     <div className="ms-2 me-auto">
                                       <div className="fw-bold">
                                           <span>Globe Trotter</span>

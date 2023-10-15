@@ -9,122 +9,132 @@ function Group() {
                         </Row>
 
                         <Row className="col-12 mt-3">
-                            <Column className="col-8 ">
+                            <Column className="col-10 ">
                                 <div className="list-group-item d-flex justify-content-between align-items-start">
-                                   <span className="badge bg-primary rounded-pill">
-                                       <img className="img-logo" src="/assets/images/group_icons/g1.png" /> 
-                                   </span>
-                                  <div className="ms-2 me-auto">
-                                    <div className="fw-bold">
-                                        <span>
-                                            Street Artists
-                                        </span>
+                                    <div class="html">
+                                        <div class="grp">
+                                            <img className="img-logo" src="/assets/images/group_icons/g1.png" /> 
+                                        </div>
                                     </div>
-                                    <span className="small">4 members</span>
-                                  </div>
+                                    <div className="ms-2 me-auto">
+                                        <div className="fw-bold">
+                                            <span>
+                                                Street Artists
+                                            </span>
+                                        </div>
+                                        <span className="small">4 members</span>
+                                    </div>
                                 </div>
                             </Column>
-                            <Column className="col-4">
+                            <Column className="col-2 justify-content-center ms-2">
                                       <div>
                                          <span >
-                                             <i className="bi bi-globe brown d-flex justify-content-center"></i>
+                                             <i className="bi bi-globe brown "></i>
                                          </span>
                                       </div>
                             </Column>
                         </Row>
                         <Row className="col-12 mt-3">
-                            <Column className="col-8 ">
+                            <Column className="col-10 ">
                                 <div className="list-group-item d-flex justify-content-between align-items-start">
-                                   <span className="badge bg-primary rounded-pill">
-                                       <img className="img-logo" src="/assets/images/group_icons/g2.png" /> 
-                                   </span>
+                                <div class="html">
+                                        <div class="grp">
+                                            <img className="img-logo" src="/assets/images/group_icons/g2.png" /> 
+                                        </div>
+                                    </div>
                                   <div className="ms-2 me-auto">
                                     <div className="fw-bold">
                                         <span>
-                                            Street Artists
+                                            Cosplayers of the world
                                         </span>
                                     </div>
-                                    <span className="small">4 members</span>
+                                    <span className="small">3 members</span>
                                   </div>
                                 </div>
                             </Column>
-                            <Column className="col-4">
+                            <Column className="col-2 justify-content-center ms-2">
                                       <div>
                                          <span >
-                                             <i className="bi bi-globe brown d-flex justify-content-center"></i>
+                                             <i className="bi bi-globe brown "></i>
                                          </span>
                                       </div>
                             </Column>
                         </Row>
 
                         <Row className="col-12 mt-3">
-                            <Column className="col-8 ">
+                            <Column className="col-10 ">
                                 <div className="list-group-item d-flex justify-content-between align-items-start">
-                                   <span className="badge bg-primary rounded-pill">
-                                       <img className="img-logo" src="/assets/images/group_icons/g3.png" /> 
-                                   </span>
+                                <div class="html">
+                                        <div class="grp">
+                                            <img className="img-logo" src="/assets/images/group_icons/g3.png" /> 
+                                        </div>
+                                    </div>
                                   <div className="ms-2 me-auto">
                                     <div className="fw-bold">
                                         <span>
-                                            Street Artists
+                                            Stream Designer
                                         </span>
                                     </div>
-                                    <span className="small">4 members</span>
+                                    <span className="small">3 members</span>
                                   </div>
                                 </div>
                             </Column>
-                            <Column className="col-4">
+                            <Column className="col-2 justify-content-center ms-2">
                                       <div>
                                          <span >
-                                             <i className="bi bi-globe brown d-flex justify-content-center"></i>
+                                             <i className="bi bi-globe brown "></i>
                                          </span>
                                       </div>
                             </Column>
                         </Row>
                         <Row className="col-12 mt-3">
-                            <Column className="col-8 ">
+                            <Column className="col-10 ">
                                 <div className="list-group-item d-flex justify-content-between align-items-start">
-                                   <span className="badge bg-primary rounded-pill">
-                                       <img className="img-logo" src="/assets/images/group_icons/g4.png" /> 
-                                   </span>
-                                  <div className="ms-2 me-auto">
-                                    <div className="fw-bold">
-                                        <span>
-                                            Street Artists
-                                        </span>
+                                    <div class="html">
+                                        <div class="grp">
+                                            <img className="img-logo" src="/assets/images/group_icons/g4.png" /> 
+                                        </div>
                                     </div>
-                                    <span className="small">4 members</span>
+                                    <div className="ms-2 me-auto">
+                                        <div className="fw-bold">
+                                            <span>
+                                                Gaming Watchtower
+                                            </span>
+                                        </div>
+                                        <span className="small">3 members</span>
                                   </div>
                                 </div>
                             </Column>
-                            <Column className="col-4">
+                            <Column className="col-2 justify-content-center ms-2">
                                       <div>
                                          <span >
-                                             <i className="bi bi-globe brown d-flex justify-content-center"></i>
+                                            <i class="bi bi-shield-lock brown "></i>
                                          </span>
                                       </div>
                             </Column>
                         </Row>
                         <Row className="col-12 mt-3">
-                            <Column className="col-8 ">
+                            <Column className="col-10 ">
                                 <div className="list-group-item d-flex justify-content-between align-items-start">
-                                   <span className="badge bg-primary rounded-pill">
-                                       <img className="img-logo" src="/assets/images/group_icons/g5.png" /> 
-                                   </span>
-                                  <div className="ms-2 me-auto">
-                                    <div className="fw-bold">
-                                        <span>
-                                            Street Artists
-                                        </span>
+                                    <div class="html">
+                                            <div class="grp">
+                                                <img className="img-logo" src="/assets/images/group_icons/g5.png" /> 
+                                            </div>
                                     </div>
-                                    <span className="small">4 members</span>
-                                  </div>
+                                    <div className="ms-2 me-auto">
+                                        <div className="fw-bold">
+                                            <span>
+                                                Living in Japan
+                                            </span>
+                                        </div>
+                                        <span className="small">2 members</span>
+                                    </div>
                                 </div>
                             </Column>
-                            <Column className="col-4">
+                            <Column className="col-2 justify-content-center ms-2">
                                       <div>
                                          <span >
-                                             <i className="bi bi-globe brown d-flex justify-content-center"></i>
+                                             <i className="bi bi-globe brown "></i>
                                          </span>
                                       </div>
                             </Column>
