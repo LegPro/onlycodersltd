@@ -8,7 +8,6 @@ function Badge() {
     <div className="col-12 ">
       <motion.div animate={{ y: [0, 100, 0] }}>
         <Row className="col-12">Badge</Row>
-
         <Row className="col-12 mt-3">
           <Column className="col-12 ">
             <div className="list-group-item d-flex justify-content-between align-items-start">

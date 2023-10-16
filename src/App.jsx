@@ -21,8 +21,7 @@ function App() {
       <NavBar />
       <Row className="col-12">
         <Column className="col-1 ">
-          {" "}
-          <Sidebar />{" "}
+          <Sidebar />
         </Column>
         <Column className="col-11">
           <Row className="col-12 mt-4">

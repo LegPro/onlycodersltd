@@ -8,7 +8,6 @@ function Member() {
     <div className="col-12 ">
       <motion.div animate={{ y: [0, 100, 0] }}>
         <Row className="col-12">Newest Member</Row>
-
         <Row className="col-12 mt-3">
           <Column className="col-12 ">
             <div className="list-group-item d-flex justify-content-between align-items-start">
@@ -48,6 +47,7 @@ function Member() {
                 <div className="bar">
                   <div className="circle">
                     <div className="mask mask100"></div>
+                    <div className="mask-bar"></div>
                     <img
                       className="img-logo"
                       src="/assets/images/avatar/4.png"
@@ -67,7 +67,6 @@ function Member() {
             </div>
           </Column>
         </Row>
-
         <Row className="col-12 mt-3">
           <Column className="col-12 ">
             <div className="list-group-item d-flex justify-content-between align-items-start">

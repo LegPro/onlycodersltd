@@ -18,6 +18,7 @@ function FeedList() {
                 <div className="bar">
                   <div className="circle">
                     <div className="mask mask100"></div>
+                    <div className="mask-bar"></div>
                     <img
                       className="img-logo"
                       src="/assets/images/feed/f1.png"

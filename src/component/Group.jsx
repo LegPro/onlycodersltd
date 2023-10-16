@@ -8,7 +8,6 @@ function Group() {
     <div className="col-12 ">
       <motion.div animate={{ y: [0, 100, 0] }}>
         <Row className="col-12">Popular Groups</Row>
-
         <Row className="col-12 mt-3">
           <Column className="col-10 ">
             <div className="list-group-item d-flex justify-content-between align-items-start">
@@ -63,7 +62,6 @@ function Group() {
             </div>
           </Column>
         </Row>
-
         <Row className="col-12 mt-3">
           <Column className="col-10 ">
             <div className="list-group-item d-flex justify-content-between align-items-start">
