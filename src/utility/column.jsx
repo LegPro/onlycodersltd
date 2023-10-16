@@ -1,10 +1,10 @@
-import React from 'react';
+import React from "react";
 
 const Column = ({ children, className, style }) => {
   return (
     <div
       className={className}
-      style={{ ...style, display: 'flex', flexDirection: 'column' }}
+      style={{ ...style, display: "flex", flexDirection: "column" }}
     >
       {children}
     </div>

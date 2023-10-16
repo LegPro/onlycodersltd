@@ -1,10 +1,10 @@
-import React from 'react';
+import React from "react";
 
 const Row = ({ children, className, style }) => {
   return (
     <div
       className={className}
-      style={{ ...style, display: 'flex', flexDirection: 'row' }}
+      style={{ ...style, display: "flex", flexDirection: "row" }}
     >
       {children}
     </div>

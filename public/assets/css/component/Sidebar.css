@@ -1,11 +1,13 @@
 .bg-white img {
   height: 140px;
 }
+
 .nav-pills .nav-link.active,
-.nav-pills .show > .nav-link {
+.nav-pills .show>.nav-link {
   color: #f8f9fa;
   background-color: #0dcaf0;
 }
+
 .nav-link.active {
   color: #f8f9fa;
 }
